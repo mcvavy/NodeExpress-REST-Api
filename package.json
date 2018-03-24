@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A REST api using Node, Express, & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcvavy/NodeExpress-REST-Api.git"
+  },
+  "keywords": [
+    "REST",
+    "Node",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Michael Oyibo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcvavy/NodeExpress-REST-Api/issues"
+  },
+  "homepage": "https://github.com/mcvavy/NodeExpress-REST-Api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2"
+  }
+}
